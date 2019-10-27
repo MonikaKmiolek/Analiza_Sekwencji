@@ -1,2 +1,9 @@
-# Analiza_Sekwencji
-Program wykonany jako projekt na przedmiot Pracownia Informatyczna w roku akademickim 2018/2019 r. Version 1.0  Program pozwala na por√≥wnywanie sekwencji aminokwasowych tworzƒÖcych bia≈Çko, kt√≥re wcze≈õniej uleg≈Çy translacji z sekwencji DNA. Za pomocƒÖ odpowiedniego algorytmu wyszukuje homologiczne segmenty pomiƒôdzy dwoma sekwencjami. Nastƒôpnie na podstawie por√≥wnanych sekwencji generuje dwuwymiarowy wykres przedstawiajƒÖcy wszystkie homologiczne segmenty miƒôdzy dwiema sekwencjami nazywane ‚Äûdotplots‚Äù. Taki wykres punktowy mo≈ºe mieƒá szerokie zastosowanie do szybkiego por√≥wnywania zestaw√≥w sekwencji.  In collaboration with @BartoszBrzozka Needlemann-Wunsch algorithm implementation by @Orion9, modified by @MonikaKmiolek
+# Qt_Cpp_Analiza_Sekwencji_Aminokwasowych
+
+
+Program wykonany jako projekt na przedmiot Pracownia Informatyczna w roku akademickim 2018/2019 r. Version 1.0
+
+Program pozwala na porÛwnywanie sekwencji aminokwasowych tworzπcych bia≥ko, ktÛre wczeúniej uleg≥y translacji z sekwencji DNA. Za pomocπ odpowiedniego algorytmu wyszukuje homologiczne segmenty pomiÍdzy dwoma sekwencjami. NastÍpnie na podstawie porÛwnanych sekwencji generuje dwuwymiarowy wykres przedstawiajπcy wszystkie homologiczne segmenty miÍdzy dwiema sekwencjami nazywane Ñdotplotsî. Taki wykres punktowy moøe mieÊ szerokie zastosowanie do szybkiego porÛwnywania zestawÛw sekwencji. 
+
+In collaboration with @MonikaKmiolek
+Needlemann-Wunsch algorithm implementation by @Orion9, modified by @BartoszBrzozka
